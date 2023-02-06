@@ -1,0 +1,56 @@
+.img1-img{background-image: url(https://mobimg.b-cdn.net/v3/fetch/d6/d6b3d0f924b460ea29d119540108d137.jpeg);}
+.p1-img{background-image: url(https://img3.akspic.ru/attachments/originals/8/4/7/4/44748-prirodnyj_zapovednik-hvojnymi_lesami-hvojnye-el_elovyj_les-okruzhayushchaya_sreda-5880x3920.jpg);}
+.img2-img{background-image: url(https://mobimg.b-cdn.net/v3/fetch/18/185f11c9b215195cdc16059635aa9b7a.jpeg);}
+.m0{margin: 0;}
+.df{display: flex;}
+.aic{align-items: center;}
+.jcc{justify-content: center;}
+.page-w{width: 100%;}
+.page-h{height: 950px;}
+.bsc{background-size: cover;}
+.fdc{flex-direction: column;}
+.fw{flex-wrap: wrap;}
+.tac{text-align: center;}
+.fww{flex-wrap: wrap;}
+.h770{height: 770px;}
+.w1100{width: 1100px;}
+.ffrs{font-family: 'Roboto', sans-serif;}
+.cw{color: white;}
+.fs60{font-style: 60px;}
+.fs18{font-style: 18px;}
+.fsi{font-style: italic;}
+.h230{height: 230px;}
+.w150{width: 150px;}
+.m25{margin: 25px;}
+.mt20{margin-top: 20px;}
+.bc38b{background-color: #38b428;}
+.h40{height: 40px;}
+.t300ms{transition: 300ms;}
+.tdn{text-decoration: none;}
+.br20{border-radius: 20px;}
+.h400{height: 400px;}
+.w400{width: 400px;}
+.w600{width: 600px;}
+.m15{margin: 15px;}
+.h300{height: 300px;}
+.w300{width: 300px;}
+.bl2b{border: #3b6e34 solid 2px;}
+.w700{width: 700px;}
+.bce9{background-color: #e9e6e6;}
+.h200{height: 200px;}
+.w230{width: 230px;}
+.fs27{font-size: 27px;}
+.h60{height: 60px;}
+.w60{width: 60px;}
+.o40{opacity: 0.4;}
+.m40{margin: 40px;}
+.bc33a{background-color: #33a045;}
+.w80{width: 80px;}
+.h7{height: 7px;}
+.ml40{margin-left: 40px;}
+.w320{width: 320px;}
+.fs20{font-size: 20px;}
+.learn:hover{
+    background-color: aliceblue;
+    color: black;
+}
